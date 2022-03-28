@@ -121,7 +121,7 @@ var APP_DATA = {
           "yaw": -0.2249993429452335,
           "pitch": 0.23967866407950034,
           "rotation": 3.141592653589793,
-          "target": "2-budynek-a-pitro-1"
+          "target": "1-budynek-a-parter"
         }
       ],
       "infoHotspots": []
